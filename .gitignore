@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+dist/
+.env
+package-lock.json
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# VSCode / IDE
+.vscode/
+*.swp
+.idea/
+
+# Logs
+logs/
+*.log
+debug.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
+
+# Coverage reports (if you add tests later)
+coverage/
+
+
